@@ -82,7 +82,7 @@ deidJobs:
 
       - itemName: patient_ssn
         action: replace_minimumlengthword_with
-        actionParam: [ssn] 4
+        actionParam: [ssn]  4
         fields:  ssn
 
       - itemName: patient_email
