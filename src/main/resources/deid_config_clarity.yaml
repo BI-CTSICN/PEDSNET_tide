@@ -66,12 +66,12 @@ deidJobs:
 
       - itemName: patient_mrn
         action: replace_minimumlengthword_with
-        actionParam: [mrn] 3
+        actionParam: [mrn]  3
         fields:  PAT_MRN_ID
 
       - itemName: other_id
         action: replace_minimumlengthword_with
-        actionParam: [id] 3
+        actionParam: [id]  3
         fields:  pat_id, birth_wrist_band, epic_pat_id, PRIM_CVG_ID, PRIM_EPP_ID, EMPLOYER_ID
 
       - itemName: general
