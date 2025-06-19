@@ -17,7 +17,7 @@
     <main.class>com.github.susom.starr.deid.Main</main.class>
 
     <beam.version>2.62.0</beam.version>
-    <jackson.version>2.15.0</jackson.version>
+    <jackson.version>2.19.0</jackson.version>
     <junit-jupiter.version>5.8.0</junit-jupiter.version>
     <version.jopt.simple>5.0.4</version.jopt.simple>
     <version.gcp.bigquery>2.31.0</version.gcp.bigquery>
